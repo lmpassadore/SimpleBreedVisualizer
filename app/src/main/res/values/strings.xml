@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleBreedVisualizer</string>
+    <string name="breedlist_network_error">Ocurrió un problema al obtener datos</string>
+</resources>
